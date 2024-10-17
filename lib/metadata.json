@@ -1,6 +1,6 @@
 {
   "vaultName": "Repertório Litúrgico",
-  "lastExport": 1729184917934,
+  "lastExport": 1729191080936,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon highlightr-realistic minimal-gruvbox-light minimal-gruvbox-dark minimal-line-nums minimal-readable colorful-headings colorful-frame colorful-active links-int-on links-ext-on full-width-media full-file-names outliner-plugin-dnd trim-cols h1-l checkbox-square minimal-strike-lists metadata-heading-off styled-scrollbars",
   "useCustomHeadContent": false,
@@ -336,7 +336,9 @@
     "2. Areas/Repertório Litúrgico/32.08 Recursos/Proclamação da Páscoa.md",
     "2. Areas/Repertório Litúrgico/32.08 Recursos/Sugestões do Ordinário da Missa.md",
     "2. Areas/Repertório Litúrgico/32.08 Recursos/Transladação do Santíssimo Sacramento.md",
-    "2. Areas/Repertório Litúrgico/Música Litúrgica.md",
+    "2. Areas/Repertório Litúrgico/index.md",
+    "lib/media/capa-missa-vespertina-da-ceia-do-senhor.png",
+    "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
     "lib/fonts/2d5198822ab091ce4305.woff2",
@@ -350,9 +352,26 @@
     "lib/fonts/52ac8f3034507f1d9e53.ttf",
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
-    "lib/media/874d8b8e340f75575caa.svg"
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/supported-plugins.css",
+    "lib/styles/main-styles.css"
   ],
   "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
     "lib/fonts/2d5198822ab091ce4305.woff2",
@@ -366,2077 +385,2203 @@
     "lib/fonts/52ac8f3034507f1d9e53.ttf",
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
-    "lib/media/874d8b8e340f75575caa.svg"
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/other-plugins.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/supported-plugins.css",
+    "lib/styles/main-styles.css"
   ],
   "fileInfo": {
-    "2. Areas/Repertório Litúrgico/32.01 Advento/1º Domingo do Advento.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 5456,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.01 Advento/1º Domingo do Advento.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.01 Advento/2º Domingo do Advento.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 5754,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.01 Advento/2º Domingo do Advento.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.01 Advento/3º Domingo do Advento.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 4912,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.01 Advento/3º Domingo do Advento.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.01 Advento/4º Domingo do Advento.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 5099,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.01 Advento/4º Domingo do Advento.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.01 Advento/Gradual Simples - Missa I - Advento.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1466,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.01 Advento/Gradual Simples - Missa I - Advento.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.01 Advento/Gradual Simples - Missa II - Advento.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1325,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.01 Advento/Gradual Simples - Missa II - Advento.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.02 Natal/001. Solenidade da Natividade de Nosso Senhor Jesus Cristo.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1034,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.02 Natal/001. Solenidade da Natividade de Nosso Senhor Jesus Cristo.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.02 Natal/002. Festa da Sagrada Família.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 4950,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.02 Natal/002. Festa da Sagrada Família.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.02 Natal/003. Solenidade de Santa Maria, Mãe de Deus.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 3849,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.02 Natal/003. Solenidade de Santa Maria, Mãe de Deus.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.02 Natal/004. Solenidade da Epifania do Senhor.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 6001,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.02 Natal/004. Solenidade da Epifania do Senhor.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.02 Natal/005. Festa do Batismo do Senhor.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 6289,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.02 Natal/005. Festa do Batismo do Senhor.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.03 Quaresma/00. Quarta-feira de Cinzas.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 6059,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.03 Quaresma/00. Quarta-feira de Cinzas.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.03 Quaresma/1º Domingo da Quaresma.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 6396,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.03 Quaresma/1º Domingo da Quaresma.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.03 Quaresma/2º Domingo da Quaresma.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 4283,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.03 Quaresma/2º Domingo da Quaresma.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.03 Quaresma/3º Domingo da Quaresma.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 5772,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.03 Quaresma/3º Domingo da Quaresma.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.03 Quaresma/4º Domingo da Quaresma.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 5557,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.03 Quaresma/4º Domingo da Quaresma.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.03 Quaresma/5º Domingo da Quaresma.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 4724,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.03 Quaresma/5º Domingo da Quaresma.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.03 Quaresma/06. Domingo de Ramos e da Paixão do Senhor.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 3256,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.03 Quaresma/06. Domingo de Ramos e da Paixão do Senhor.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.03 Quaresma/07. Missa do Crisma - Santos Óleos.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1386,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.03 Quaresma/07. Missa do Crisma - Santos Óleos.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.04 Páscoa/001. Missa Vespertina da Ceia do Senhor - Quinta-feira Santa.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 6529,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.04 Páscoa/001. Missa Vespertina da Ceia do Senhor - Quinta-feira Santa.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.04 Páscoa/002. Celebração da Adoração da Cruz.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 8705,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.04 Páscoa/002. Celebração da Adoração da Cruz.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.04 Páscoa/003. Vigília Pascal.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 17923,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.04 Páscoa/003. Vigília Pascal.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.04 Páscoa/004. Domingo da Páscoa na Ressurreição do Senhor.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 5058,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.04 Páscoa/004. Domingo da Páscoa na Ressurreição do Senhor.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.04 Páscoa/005. 2º Domingo da Páscoa.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 3597,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.04 Páscoa/005. 2º Domingo da Páscoa.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.04 Páscoa/006. 3º Domingo da Páscoa.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 3320,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.04 Páscoa/006. 3º Domingo da Páscoa.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.04 Páscoa/007. 4º Domingo da Páscoa.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 4308,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.04 Páscoa/007. 4º Domingo da Páscoa.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.04 Páscoa/008. 5º Domingo da Páscoa.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 3458,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.04 Páscoa/008. 5º Domingo da Páscoa.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.04 Páscoa/009. 6º Domingo da Páscoa.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 3643,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.04 Páscoa/009. 6º Domingo da Páscoa.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.04 Páscoa/010. Solenidade da Ascensão do Senhor.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 4264,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.04 Páscoa/010. Solenidade da Ascensão do Senhor.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.04 Páscoa/011. Solenidade do Domingo de Pentecostes.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 6339,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.04 Páscoa/011. Solenidade do Domingo de Pentecostes.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.04 Páscoa/ENC No One Wants a Notetaking System.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 5049,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.04 Páscoa/ENC No One Wants a Notetaking System.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.04 Páscoa/Gradual Simples - Missa I - Tempus Paschale.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 890,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.04 Páscoa/Gradual Simples - Missa I - Tempus Paschale.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.04 Páscoa/Gradual Simples - Missa II - Tempus Paschale.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 762,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.04 Páscoa/Gradual Simples - Missa II - Tempus Paschale.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/2º Domingo do Tempo Comum.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 4693,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/2º Domingo do Tempo Comum.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/3º Domingo do Tempo Comum.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 4606,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/3º Domingo do Tempo Comum.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/4º Domingo do Tempo Comum.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 6074,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/4º Domingo do Tempo Comum.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/5º Domingo do Tempo Comum.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 5152,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/5º Domingo do Tempo Comum.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/6º Domingo do Tempo Comum.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 5000,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/6º Domingo do Tempo Comum.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/7º Domingo do Tempo Comum.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 3909,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/7º Domingo do Tempo Comum.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/8º Domingo do Tempo Comum.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 0,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/8º Domingo do Tempo Comum.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/9º Domingo do Tempo Comum.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 0,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/9º Domingo do Tempo Comum.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/10º Domingo do Tempo Comum.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 3551,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/10º Domingo do Tempo Comum.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/11º Domingo do Tempo Comum.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 3216,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/11º Domingo do Tempo Comum.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/12º Domingo do Tempo Comum.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 3983,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/12º Domingo do Tempo Comum.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/13º Domingo do Tempo Comum.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 0,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/13º Domingo do Tempo Comum.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/14º Domingo do Tempo Comum.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 4067,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/14º Domingo do Tempo Comum.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/15º Domingo do Tempo Comum.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 4617,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/15º Domingo do Tempo Comum.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/16º Domingo do Tempo Comum.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 4808,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/16º Domingo do Tempo Comum.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/17º Domingo do Tempo Comum.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 5851,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/17º Domingo do Tempo Comum.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/18º Domingo do Tempo Comum.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 4054,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/18º Domingo do Tempo Comum.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/19º Domingo do Tempo Comum.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 3229,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/19º Domingo do Tempo Comum.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/20º Domingo do Tempo Comum.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 3267,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/20º Domingo do Tempo Comum.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/21º Domingo do Tempo Comum.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 2883,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/21º Domingo do Tempo Comum.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/22º Domingo do Tempo Comum.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 3155,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/22º Domingo do Tempo Comum.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/23º Domingo do Tempo Comum.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 3294,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/23º Domingo do Tempo Comum.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/24º Domingo do Tempo Comum.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 3525,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/24º Domingo do Tempo Comum.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/25º Domingo do Tempo Comum.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 3647,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/25º Domingo do Tempo Comum.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/26º Domingo do Tempo Comum.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 3898,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/26º Domingo do Tempo Comum.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/27º Domingo do Tempo Comum.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 5355,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/27º Domingo do Tempo Comum.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/28º Domingo do Tempo Comum.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 3809,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/28º Domingo do Tempo Comum.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/29º Domingo do Tempo Comum.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 628,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/29º Domingo do Tempo Comum.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/30º Domingo do Tempo Comum.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 0,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/30º Domingo do Tempo Comum.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/31º Domingo do Tempo Comum.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 0,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/31º Domingo do Tempo Comum.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/32º Domingo do Tempo Comum.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 0,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/32º Domingo do Tempo Comum.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/33º Domingo do Tempo Comum.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 4782,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/33º Domingo do Tempo Comum.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Comemoração de Todos os Fiéis Defuntos.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 0,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Comemoração de Todos os Fiéis Defuntos.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Festa da Exaltação da Santa Cruz.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 4980,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Festa da Exaltação da Santa Cruz.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Festa da Natividade de Nossa Senhora.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 3427,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Festa da Natividade de Nossa Senhora.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Festa da Transfiguração do Senhor.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 3981,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Festa da Transfiguração do Senhor.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Gradual Simples - Comum de Nossa Senhora.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1725,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Gradual Simples - Comum de Nossa Senhora.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Gradual Simples - Missa I - Tempus per annum.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1207,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Gradual Simples - Missa I - Tempus per annum.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Gradual Simples - Missa II - Tempus per annum.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1027,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Gradual Simples - Missa II - Tempus per annum.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Gradual Simples - Missa III - Tempus per annum.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1155,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Gradual Simples - Missa III - Tempus per annum.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Gradual Simples - Missa IV - Tempus per annum.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1247,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Gradual Simples - Missa IV - Tempus per annum.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Gradual Simples - Missa V.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1080,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Gradual Simples - Missa V.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Gradual Simples - Missa VI.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1280,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Gradual Simples - Missa VI.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Memória de Nossa Senhora das Dores.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 7167,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Memória de Nossa Senhora das Dores.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Memória do Imaculado Coração de Maria.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 3848,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Memória do Imaculado Coração de Maria.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Solenidade da Assunção de Nossa Senhora.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 5791,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Solenidade da Assunção de Nossa Senhora.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Solenidade da Santíssima Trindade.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 5615,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Solenidade da Santíssima Trindade.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Solenidade de Corpus Christi.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 11600,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Solenidade de Corpus Christi.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Solenidade de Nosso Senhor Jesus Cristo, Rei do Universo.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 3963,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Solenidade de Nosso Senhor Jesus Cristo, Rei do Universo.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Solenidade de São Pedro e São Paulo.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 4831,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Solenidade de São Pedro e São Paulo.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Solenidade de Todos os Santos.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 0,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Solenidade de Todos os Santos.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Solenidade do Sagrado Coração de Jesus.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 4357,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Solenidade do Sagrado Coração de Jesus.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.06 Comuns/01. Comum de Nossa Senhora.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1385,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.06 Comuns/01. Comum de Nossa Senhora.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.06 Comuns/02. Comum de Dedicação de Igreja.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 0,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.06 Comuns/02. Comum de Dedicação de Igreja.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.06 Comuns/03. Comum dos Apóstolos.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 0,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.06 Comuns/03. Comum dos Apóstolos.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.06 Comuns/04. Comum dos Mártires.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 0,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.06 Comuns/04. Comum dos Mártires.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.06 Comuns/05. Comum das Virgens.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 0,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.06 Comuns/05. Comum das Virgens.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.06 Comuns/06. Comum dos Doutores da Igreja.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 0,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.06 Comuns/06. Comum dos Doutores da Igreja.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.06 Comuns/07. Comum dos Pastores.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1112,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.06 Comuns/07. Comum dos Pastores.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.06 Comuns/08. Comum dos Santos e Santas de Deus.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 0,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.06 Comuns/08. Comum dos Santos e Santas de Deus.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/001. Saltério.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 4890,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/001. Saltério.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/1Pd 2,21-24.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 676,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/1Pd 2,21-24.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/1Sm 2,6-10.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 930,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/1Sm 2,6-10.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Ap 19,1-2.5-7.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 792,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Ap 19,1-2.5-7.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico 1Cr 29,10-13.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 830,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico 1Cr 29,10-13.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico 1Sm 2,1-10.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1717,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico 1Sm 2,1-10.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico Ap 4,11; 5,9.10.12.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 829,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico Ap 4,11; 5,9.10.12.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico Ap 11,17-18; 12,10b-12a.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1042,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico Ap 11,17-18; 12,10b-12a.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico Ap 15,3-4.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 571,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico Ap 15,3-4.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico Cl 1,12-20.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1446,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico Cl 1,12-20.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico Dn 3,26.27.29.34-41.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1557,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico Dn 3,26.27.29.34-41.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico Dn 3,57-88.56.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1980,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico Dn 3,57-88.56.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico Eclo 36,1-7.13-16.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1299,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico Eclo 36,1-7.13-16.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico Ef 1,3-10.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1214,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico Ef 1,3-10.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico Ex 15,1-4b.8-13.17-18.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1616,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico Ex 15,1-4b.8-13.17-18.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico Ez 36,24-28.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 933,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico Ez 36,24-28.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico Fl 2,6-11.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 922,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico Fl 2,6-11.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico Is 2,2-5.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1058,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico Is 2,2-5.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico Is 33,13-16.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 885,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico Is 33,13-16.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico Is 61,10–62,5.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1587,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico Is 61,10–62,5.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico Jt 16,1-2.13-15.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 964,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico Jt 16,1-2.13-15.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico Pr 9,1-6.10-12.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1067,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico Pr 9,1-6.10-12.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico Tb 13,2-8.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1377,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico Tb 13,2-8.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico Tb 13,8-11.13-14ab.15-16ab.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1324,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico Tb 13,8-11.13-14ab.15-16ab.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Dn 3,52-57.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 900,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Dn 3,52-57.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Dt 32,1-12.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1832,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Dt 32,1-12.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Eclo 14,22; 15,3.4.6b.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 570,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Eclo 14,22; 15,3.4.6b.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Eclo 31,8-11.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 672,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Eclo 31,8-11.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Eclo 39,17-21.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 679,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Eclo 39,17-21.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Hab 3,2-4.13a.15-19.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1509,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Hab 3,2-4.13a.15-19.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Is 9,1-6.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1405,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Is 9,1-6.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Is 12,1-6.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 804,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Is 12,1-6.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Is 26,1-4.7-9.12.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1117,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Is 26,1-4.7-9.12.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Is 33,2-10.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1421,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Is 33,2-10.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Is 38,10-14.17-20.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1632,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Is 38,10-14.17-20.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Is 40,10-17.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1493,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Is 40,10-17.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Is 42,10-16.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1488,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Is 42,10-16.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Is 45,15-25.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 2205,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Is 45,15-25.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Is 61,6-9.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 866,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Is 61,6-9.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Is 62,4-7.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 913,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Is 62,4-7.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Is 66,10-14a.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 906,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Is 66,10-14a.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Jr 14,17-21.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1118,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Jr 14,17-21.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Jr 17,7-8.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 478,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Jr 17,7-8.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Jr 31,10-14.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1005,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Jr 31,10-14.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Lc 1,46-55.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 793,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Lc 1,46-55.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Lc 1,68-79.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1180,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Lc 1,68-79.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Lc 2,29-32.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 347,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Lc 2,29-32.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 1.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1010,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 1.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 2.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1449,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 2.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 3.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 970,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 3.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 4.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1139,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 4.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 5,2-10.12-13.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1514,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 5,2-10.12-13.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 6.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 952,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 6.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 7.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1991,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 7.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 8.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1198,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 8.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 9 A(9).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 2121,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 9 A(9).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 9 B(10).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 2160,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 9 B(10).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 10(11).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 919,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 10(11).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 11(12).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1034,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 11(12).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 12(13).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 767,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 12(13).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 13(14).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1127,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 13(14).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 14(15).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 765,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 14(15).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 15(16).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1335,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 15(16).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 16(17).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 2028,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 16(17).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 17(18),2-30.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 3223,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 17(18),2-30.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 17(18),31-51.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 2394,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 17(18),31-51.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 18 A(19).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 894,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 18 A(19).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 18 B(19 B).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1147,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 18 B(19 B).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 19(20).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1286,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 19(20).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 20(21),2-8.14.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1005,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 20(21),2-8.14.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 21(22).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 3898,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 21(22).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 22(23).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 882,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 22(23).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 23(24).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1316,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 23(24).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 24(25).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 2318,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 24(25).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 25(26).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1239,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 25(26).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 26(27).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 2143,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 26(27).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 27(28),1-3.6-9.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1092,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 27(28),1-3.6-9.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 28(29).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1143,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 28(29).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 29(30).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1479,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 29(30).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 30(31),2-6.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 728,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 30(31),2-6.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 30(31),2-17.20-25.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 3104,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 30(31),2-17.20-25.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 31(32).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1737,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 31(32).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 32(33).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 2206,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 32(33).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 33(34).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 2186,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 33(34).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 34(35),1-2.3c.9-19.22-23.27.28.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 2170,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 34(35),1-2.3c.9-19.22-23.27.28.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 35(36).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1443,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 35(36).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 36(37).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 4445,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 36(37).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 37(38).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 2210,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 37(38).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 38(39).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1911,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 38(39).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 39(40),2-14.17-18.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 2375,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 39(40),2-14.17-18.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 40(41).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1464,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 40(41).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 41(42).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1660,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 41(42).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 42(43).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 830,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 42(43).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 43(44).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 2811,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 43(44).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 44(45).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 2034,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 44(45).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 45(46).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1239,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 45(46).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 46(47).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1064,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 46(47).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 47(48).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1604,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 47(48).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 48(49).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 2294,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 48(49).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 49(50).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 2601,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 49(50).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 50(51).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 2068,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 50(51).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 51(52).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1128,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 51(52).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 52(53).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1187,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 52(53).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 53(54),3-6.8-9.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 776,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 53(54),3-6.8-9.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 54(55),2-15.17-24.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 2690,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 54(55),2-15.17-24.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 55(56),2-7b.9-14.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1472,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 55(56),2-7b.9-14.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 56(57).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1378,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 56(57).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 58(59),2-5.10-11.17-18.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1130,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 58(59),2-5.10-11.17-18.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 59(60).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1209,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 59(60).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 60(61).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 959,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 60(61).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 61(62).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1556,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 61(62).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 62(63),2-9.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 952,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 62(63),2-9.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 63(64).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1183,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 63(64).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 64(65).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1668,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 64(65).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 65(66).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 2267,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 65(66).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 66(67).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 864,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 66(67).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 67(68).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 4741,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 67(68).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 68(69),2-22.30-37.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 3893,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 68(69),2-22.30-37.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 69(70).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 865,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 69(70).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 70(71).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 2979,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 70(71).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 71(72).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 2291,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 71(72).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 72(73).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 2868,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 72(73).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 73(74).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 2735,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 73(74).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 74(75).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1229,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 74(75).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 75(76).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1402,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 75(76).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 76(77).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 2190,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 76(77).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 77(78).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 7585,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 77(78).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 78(79),1-5.8-11.13.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1603,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 78(79),1-5.8-11.13.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 79(80).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 2165,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 79(80).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 80(81).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1691,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 80(81).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 81(82).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 903,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 81(82).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 83(84).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1704,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 83(84).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 84(85).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1374,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 84(85).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 85(86).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1848,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 85(86).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 86(87).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 793,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 86(87).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 87(88).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1926,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 87(88).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 88(89),2-38.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 4506,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 88(89),2-38.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 88(89),39-53.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1865,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 88(89),39-53.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 89(90).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1911,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 89(90).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 90(91).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1767,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 90(91).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 91(92).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1570,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 91(92).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 92(93).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 800,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 92(93).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 93(94).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 2120,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 93(94).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 94(95).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1350,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 94(95).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 95(96).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1517,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 95(96).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 96(97).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1416,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 96(97).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 97(98).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1095,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 97(98).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 98(99).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1232,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 98(99).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 99(100).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 630,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 99(100).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 100(101).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1315,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 100(101).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 101(102).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 2878,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 101(102).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 102(103).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 2360,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 102(103).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 103(104).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 3766,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 103(104).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 104(105).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 4341,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 104(105).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 105(106).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 5084,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 105(106).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 106(107).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 4040,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 106(107).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 107(108).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1385,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 107(108).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 109(110),1-5.7.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 931,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 109(110),1-5.7.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 110(111).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1121,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 110(111).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 111(112).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1190,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 111(112).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 112(113).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 864,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 112(113).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 113 A(114).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 882,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 113 A(114).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 113 B(115).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1712,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 113 B(115).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 114(116 A).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 892,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 114(116 A).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 115(116 B).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1086,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 115(116 B).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 116(117).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 313,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 116(117).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 117(118).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 2992,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 117(118).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),1-8.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 885,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),1-8.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),9-16.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 878,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),9-16.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),17-24.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 897,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),17-24.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),25-32.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 909,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),25-32.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),33-40.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 896,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),33-40.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),41-48.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 947,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),41-48.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),49-56.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 914,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),49-56.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),57-64.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 956,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),57-64.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),65-72.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 889,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),65-72.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),73-80.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 948,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),73-80.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),81-88.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 936,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),81-88.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),89-96.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 944,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),89-96.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),97-104.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 978,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),97-104.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),105-112.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 965,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),105-112.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),113-120.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 938,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),113-120.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),121-128.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 951,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),121-128.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),129-136.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 919,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),129-136.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),137-144.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 973,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),137-144.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),145-152.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 949,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),145-152.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),153-160.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 902,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),153-160.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),161-168.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 918,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),161-168.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),169-176.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 983,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),169-176.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 119(120).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 753,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 119(120).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 120(121).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 861,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 120(121).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 121(122).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 925,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 121(122).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 122(123).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 618,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 122(123).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 123(124).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 936,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 123(124).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 124(125).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 748,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 124(125).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 125(126).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 746,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 125(126).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 126(127).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 824,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 126(127).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 127(128).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 753,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 127(128).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 128(129).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 872,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 128(129).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 129(130).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 787,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 129(130).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 130(131).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 557,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 130(131).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 131(132).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1971,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 131(132).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 132(133).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 568,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 132(133).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 133(134).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 503,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 133(134).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 134(135).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1914,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 134(135).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 135(136).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 2176,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 135(136).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 136(137),1-6.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 837,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 136(137),1-6.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 137(138).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1238,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 137(138).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 138(139),1-18.23-24.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 2322,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 138(139),1-18.23-24.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 139(140),2-9.13-14.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1169,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 139(140),2-9.13-14.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 140(141),1-9.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1192,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 140(141),1-9.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 141(142).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1001,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 141(142).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 142(143),1-11.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1626,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 142(143),1-11.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 143(144),1-10.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1119,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 143(144),1-10.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 144(145).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 2227,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 144(145).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 145(146).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1200,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 145(146).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 146(147 A).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1269,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 146(147 A).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 147(147 B).md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 934,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 147(147 B).html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 148.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1619,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 148.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 149.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 935,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 149.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 150.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 666,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 150.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Sb 3,7-9.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 491,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Sb 3,7-9.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Sb 9,1-6.9-11.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1375,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Sb 9,1-6.9-11.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Sb 10,17-21.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 881,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Sb 10,17-21.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Sb 16,20-21.26; 17,1a.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 861,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Sb 16,20-21.26; 17,1a.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Anotações sobre o Advento - Diretório de Liturgia CNBB.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 453,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Anotações sobre o Advento - Diretório de Liturgia CNBB.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Distribuição das Cinzas.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 447,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Distribuição das Cinzas.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Ladainha de todos os Santos.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 2442,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Ladainha de todos os Santos.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Missa da Aurora - Natal.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1411,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Missa da Aurora - Natal.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Missa da Noite - Natal.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 2619,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Missa da Noite - Natal.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Missa da Vigília - Natal.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1355,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Missa da Vigília - Natal.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Missa do Dia - Natal.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1728,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Missa do Dia - Natal.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Observância das normas litúrgicas e ars celebrandi.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 15555,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Observância das normas litúrgicas e ars celebrandi.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Procissão de Ramos.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 5635,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Procissão de Ramos.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Proclamação da Páscoa.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 7009,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Proclamação da Páscoa.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Sugestões do Ordinário da Missa.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 3146,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Sugestões do Ordinário da Missa.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/32.08 Recursos/Transladação do Santíssimo Sacramento.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1317,
-      "exportedPath": "2. Areas/Repertório Litúrgico/32.08 Recursos/Transladação do Santíssimo Sacramento.html",
-      "dependencies": []
-    },
-    "2. Areas/Repertório Litúrgico/Música Litúrgica.md": {
-      "modifiedTime": 1729184917934,
-      "sourceSize": 1697,
-      "exportedPath": "2. Areas/Repertório Litúrgico/Música Litúrgica.html",
-      "dependencies": []
-    },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1729184917934,
+      "modifiedTime": 1729191080936,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1729184917934,
+      "modifiedTime": 1729191080936,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1729184917934,
+      "modifiedTime": 1729191080936,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1729184917934,
+      "modifiedTime": 1729191080936,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1729184917934,
+      "modifiedTime": 1729191080936,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1729184917934,
+      "modifiedTime": 1729191080936,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1729184917934,
+      "modifiedTime": 1729191080936,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1729184917934,
+      "modifiedTime": 1729191080936,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1729184917934,
+      "modifiedTime": 1729191080936,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1729184917934,
+      "modifiedTime": 1729191080936,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1729184917934,
+      "modifiedTime": 1729191080936,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1729184917934,
+      "modifiedTime": 1729191080936,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1729184917934,
+      "modifiedTime": 1729191080936,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1729184917934,
+      "modifiedTime": 1729191080936,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/index.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 2480,
+      "exportedPath": "2.-areas/repertório-litúrgico/index.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.01 Advento/1º Domingo do Advento.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 5456,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.01-advento/1º-domingo-do-advento.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.01 Advento/2º Domingo do Advento.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 5754,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.01-advento/2º-domingo-do-advento.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.01 Advento/3º Domingo do Advento.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 4912,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.01-advento/3º-domingo-do-advento.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.01 Advento/4º Domingo do Advento.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 5099,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.01-advento/4º-domingo-do-advento.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.01 Advento/Gradual Simples - Missa I - Advento.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1466,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.01-advento/gradual-simples-missa-i-advento.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.01 Advento/Gradual Simples - Missa II - Advento.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1325,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.01-advento/gradual-simples-missa-ii-advento.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.02 Natal/001. Solenidade da Natividade de Nosso Senhor Jesus Cristo.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1034,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.02-natal/001.-solenidade-da-natividade-de-nosso-senhor-jesus-cristo.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.02 Natal/002. Festa da Sagrada Família.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 4950,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.02-natal/002.-festa-da-sagrada-família.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.02 Natal/003. Solenidade de Santa Maria, Mãe de Deus.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 3849,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.02-natal/003.-solenidade-de-santa-maria,-mãe-de-deus.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.02 Natal/004. Solenidade da Epifania do Senhor.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 6001,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.02-natal/004.-solenidade-da-epifania-do-senhor.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.02 Natal/005. Festa do Batismo do Senhor.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 6289,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.02-natal/005.-festa-do-batismo-do-senhor.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.03 Quaresma/00. Quarta-feira de Cinzas.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 6059,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.03-quaresma/00.-quarta-feira-de-cinzas.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.03 Quaresma/1º Domingo da Quaresma.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 6396,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.03-quaresma/1º-domingo-da-quaresma.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.03 Quaresma/2º Domingo da Quaresma.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 4283,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.03-quaresma/2º-domingo-da-quaresma.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.03 Quaresma/3º Domingo da Quaresma.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 5772,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.03-quaresma/3º-domingo-da-quaresma.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.03 Quaresma/4º Domingo da Quaresma.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 5557,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.03-quaresma/4º-domingo-da-quaresma.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.03 Quaresma/5º Domingo da Quaresma.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 4724,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.03-quaresma/5º-domingo-da-quaresma.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.03 Quaresma/06. Domingo de Ramos e da Paixão do Senhor.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 3256,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.03-quaresma/06.-domingo-de-ramos-e-da-paixão-do-senhor.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.03 Quaresma/07. Missa do Crisma - Santos Óleos.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1386,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.03-quaresma/07.-missa-do-crisma-santos-óleos.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.04 Páscoa/001. Missa Vespertina da Ceia do Senhor - Quinta-feira Santa.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 6529,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.04-páscoa/001.-missa-vespertina-da-ceia-do-senhor-quinta-feira-santa.html",
+      "dependencies": [
+        "lib/media/capa-missa-vespertina-da-ceia-do-senhor.png"
+      ]
+    },
+    "2. Areas/Repertório Litúrgico/32.04 Páscoa/002. Celebração da Adoração da Cruz.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 8705,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.04-páscoa/002.-celebração-da-adoração-da-cruz.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.04 Páscoa/003. Vigília Pascal.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 17923,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.04-páscoa/003.-vigília-pascal.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.04 Páscoa/004. Domingo da Páscoa na Ressurreição do Senhor.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 5058,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.04-páscoa/004.-domingo-da-páscoa-na-ressurreição-do-senhor.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.04 Páscoa/005. 2º Domingo da Páscoa.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 3597,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.04-páscoa/005.-2º-domingo-da-páscoa.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.04 Páscoa/006. 3º Domingo da Páscoa.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 3320,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.04-páscoa/006.-3º-domingo-da-páscoa.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.04 Páscoa/007. 4º Domingo da Páscoa.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 4308,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.04-páscoa/007.-4º-domingo-da-páscoa.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.04 Páscoa/008. 5º Domingo da Páscoa.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 3458,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.04-páscoa/008.-5º-domingo-da-páscoa.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.04 Páscoa/009. 6º Domingo da Páscoa.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 3643,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.04-páscoa/009.-6º-domingo-da-páscoa.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.04 Páscoa/010. Solenidade da Ascensão do Senhor.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 4264,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.04-páscoa/010.-solenidade-da-ascensão-do-senhor.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.04 Páscoa/011. Solenidade do Domingo de Pentecostes.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 6339,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.04-páscoa/011.-solenidade-do-domingo-de-pentecostes.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.04 Páscoa/ENC No One Wants a Notetaking System.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 5049,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.04-páscoa/enc-no-one-wants-a-notetaking-system.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.04 Páscoa/Gradual Simples - Missa I - Tempus Paschale.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 890,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.04-páscoa/gradual-simples-missa-i-tempus-paschale.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.04 Páscoa/Gradual Simples - Missa II - Tempus Paschale.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 762,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.04-páscoa/gradual-simples-missa-ii-tempus-paschale.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/2º Domingo do Tempo Comum.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 4693,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.05-tempo-comum/2º-domingo-do-tempo-comum.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/3º Domingo do Tempo Comum.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 4606,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.05-tempo-comum/3º-domingo-do-tempo-comum.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/4º Domingo do Tempo Comum.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 6074,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.05-tempo-comum/4º-domingo-do-tempo-comum.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/5º Domingo do Tempo Comum.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 5152,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.05-tempo-comum/5º-domingo-do-tempo-comum.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/6º Domingo do Tempo Comum.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 5000,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.05-tempo-comum/6º-domingo-do-tempo-comum.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/7º Domingo do Tempo Comum.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 3909,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.05-tempo-comum/7º-domingo-do-tempo-comum.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/8º Domingo do Tempo Comum.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 0,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.05-tempo-comum/8º-domingo-do-tempo-comum.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/9º Domingo do Tempo Comum.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 0,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.05-tempo-comum/9º-domingo-do-tempo-comum.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/10º Domingo do Tempo Comum.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 3551,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.05-tempo-comum/10º-domingo-do-tempo-comum.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/11º Domingo do Tempo Comum.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 3216,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.05-tempo-comum/11º-domingo-do-tempo-comum.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/12º Domingo do Tempo Comum.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 3983,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.05-tempo-comum/12º-domingo-do-tempo-comum.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/13º Domingo do Tempo Comum.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 0,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.05-tempo-comum/13º-domingo-do-tempo-comum.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/14º Domingo do Tempo Comum.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 4067,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.05-tempo-comum/14º-domingo-do-tempo-comum.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/15º Domingo do Tempo Comum.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 4617,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.05-tempo-comum/15º-domingo-do-tempo-comum.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/16º Domingo do Tempo Comum.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 4808,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.05-tempo-comum/16º-domingo-do-tempo-comum.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/17º Domingo do Tempo Comum.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 5851,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.05-tempo-comum/17º-domingo-do-tempo-comum.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/18º Domingo do Tempo Comum.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 4054,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.05-tempo-comum/18º-domingo-do-tempo-comum.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/19º Domingo do Tempo Comum.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 3229,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.05-tempo-comum/19º-domingo-do-tempo-comum.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/20º Domingo do Tempo Comum.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 3267,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.05-tempo-comum/20º-domingo-do-tempo-comum.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/21º Domingo do Tempo Comum.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 2883,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.05-tempo-comum/21º-domingo-do-tempo-comum.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/22º Domingo do Tempo Comum.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 3155,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.05-tempo-comum/22º-domingo-do-tempo-comum.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/23º Domingo do Tempo Comum.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 3294,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.05-tempo-comum/23º-domingo-do-tempo-comum.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/24º Domingo do Tempo Comum.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 3525,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.05-tempo-comum/24º-domingo-do-tempo-comum.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/25º Domingo do Tempo Comum.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 3647,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.05-tempo-comum/25º-domingo-do-tempo-comum.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/26º Domingo do Tempo Comum.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 3898,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.05-tempo-comum/26º-domingo-do-tempo-comum.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/27º Domingo do Tempo Comum.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 5355,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.05-tempo-comum/27º-domingo-do-tempo-comum.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/28º Domingo do Tempo Comum.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 3809,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.05-tempo-comum/28º-domingo-do-tempo-comum.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/29º Domingo do Tempo Comum.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 628,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.05-tempo-comum/29º-domingo-do-tempo-comum.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/30º Domingo do Tempo Comum.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 0,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.05-tempo-comum/30º-domingo-do-tempo-comum.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/31º Domingo do Tempo Comum.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 0,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.05-tempo-comum/31º-domingo-do-tempo-comum.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/32º Domingo do Tempo Comum.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 0,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.05-tempo-comum/32º-domingo-do-tempo-comum.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/33º Domingo do Tempo Comum.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 4782,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.05-tempo-comum/33º-domingo-do-tempo-comum.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Comemoração de Todos os Fiéis Defuntos.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 0,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.05-tempo-comum/comemoração-de-todos-os-fiéis-defuntos.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Festa da Exaltação da Santa Cruz.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 4980,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.05-tempo-comum/festa-da-exaltação-da-santa-cruz.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Festa da Natividade de Nossa Senhora.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 3427,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.05-tempo-comum/festa-da-natividade-de-nossa-senhora.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Festa da Transfiguração do Senhor.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 3981,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.05-tempo-comum/festa-da-transfiguração-do-senhor.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Gradual Simples - Comum de Nossa Senhora.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1725,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.05-tempo-comum/gradual-simples-comum-de-nossa-senhora.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Gradual Simples - Missa I - Tempus per annum.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1207,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.05-tempo-comum/gradual-simples-missa-i-tempus-per-annum.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Gradual Simples - Missa II - Tempus per annum.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1027,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.05-tempo-comum/gradual-simples-missa-ii-tempus-per-annum.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Gradual Simples - Missa III - Tempus per annum.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1155,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.05-tempo-comum/gradual-simples-missa-iii-tempus-per-annum.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Gradual Simples - Missa IV - Tempus per annum.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1247,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.05-tempo-comum/gradual-simples-missa-iv-tempus-per-annum.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Gradual Simples - Missa V.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1080,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.05-tempo-comum/gradual-simples-missa-v.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Gradual Simples - Missa VI.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1280,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.05-tempo-comum/gradual-simples-missa-vi.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Memória de Nossa Senhora das Dores.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 7167,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.05-tempo-comum/memória-de-nossa-senhora-das-dores.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Memória do Imaculado Coração de Maria.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 3848,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.05-tempo-comum/memória-do-imaculado-coração-de-maria.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Solenidade da Assunção de Nossa Senhora.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 5791,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.05-tempo-comum/solenidade-da-assunção-de-nossa-senhora.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Solenidade da Santíssima Trindade.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 5615,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.05-tempo-comum/solenidade-da-santíssima-trindade.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Solenidade de Corpus Christi.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 11600,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.05-tempo-comum/solenidade-de-corpus-christi.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Solenidade de Nosso Senhor Jesus Cristo, Rei do Universo.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 3963,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.05-tempo-comum/solenidade-de-nosso-senhor-jesus-cristo,-rei-do-universo.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Solenidade de São Pedro e São Paulo.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 4831,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.05-tempo-comum/solenidade-de-são-pedro-e-são-paulo.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Solenidade de Todos os Santos.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 0,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.05-tempo-comum/solenidade-de-todos-os-santos.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.05 Tempo Comum/Solenidade do Sagrado Coração de Jesus.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 4357,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.05-tempo-comum/solenidade-do-sagrado-coração-de-jesus.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.06 Comuns/01. Comum de Nossa Senhora.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1385,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.06-comuns/01.-comum-de-nossa-senhora.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.06 Comuns/02. Comum de Dedicação de Igreja.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 0,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.06-comuns/02.-comum-de-dedicação-de-igreja.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.06 Comuns/03. Comum dos Apóstolos.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 0,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.06-comuns/03.-comum-dos-apóstolos.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.06 Comuns/04. Comum dos Mártires.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 0,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.06-comuns/04.-comum-dos-mártires.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.06 Comuns/05. Comum das Virgens.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 0,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.06-comuns/05.-comum-das-virgens.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.06 Comuns/06. Comum dos Doutores da Igreja.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 0,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.06-comuns/06.-comum-dos-doutores-da-igreja.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.06 Comuns/07. Comum dos Pastores.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1112,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.06-comuns/07.-comum-dos-pastores.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.06 Comuns/08. Comum dos Santos e Santas de Deus.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 0,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.06-comuns/08.-comum-dos-santos-e-santas-de-deus.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/001. Saltério.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 4890,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/001.-saltério.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/1Pd 2,21-24.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 676,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/1pd-2,21-24.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/1Sm 2,6-10.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 930,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/1sm-2,6-10.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Ap 19,1-2.5-7.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 792,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/ap-19,1-2.5-7.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico 1Cr 29,10-13.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 830,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/cântico-1cr-29,10-13.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico 1Sm 2,1-10.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1717,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/cântico-1sm-2,1-10.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico Ap 4,11; 5,9.10.12.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 829,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/cântico-ap-4,11;-5,9.10.12.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico Ap 11,17-18; 12,10b-12a.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1042,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/cântico-ap-11,17-18;-12,10b-12a.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico Ap 15,3-4.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 571,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/cântico-ap-15,3-4.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico Cl 1,12-20.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1446,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/cântico-cl-1,12-20.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico Dn 3,26.27.29.34-41.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1557,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/cântico-dn-3,26.27.29.34-41.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico Dn 3,57-88.56.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1980,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/cântico-dn-3,57-88.56.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico Eclo 36,1-7.13-16.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1299,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/cântico-eclo-36,1-7.13-16.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico Ef 1,3-10.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1214,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/cântico-ef-1,3-10.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico Ex 15,1-4b.8-13.17-18.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1616,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/cântico-ex-15,1-4b.8-13.17-18.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico Ez 36,24-28.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 933,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/cântico-ez-36,24-28.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico Fl 2,6-11.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 922,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/cântico-fl-2,6-11.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico Is 2,2-5.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1058,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/cântico-is-2,2-5.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico Is 33,13-16.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 885,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/cântico-is-33,13-16.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico Is 61,10–62,5.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1587,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/cântico-is-61,10–62,5.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico Jt 16,1-2.13-15.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 964,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/cântico-jt-16,1-2.13-15.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico Pr 9,1-6.10-12.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1067,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/cântico-pr-9,1-6.10-12.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico Tb 13,2-8.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1377,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/cântico-tb-13,2-8.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Cântico Tb 13,8-11.13-14ab.15-16ab.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1324,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/cântico-tb-13,8-11.13-14ab.15-16ab.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Dn 3,52-57.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 900,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/dn-3,52-57.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Dt 32,1-12.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1832,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/dt-32,1-12.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Eclo 14,22; 15,3.4.6b.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 570,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/eclo-14,22;-15,3.4.6b.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Eclo 31,8-11.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 672,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/eclo-31,8-11.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Eclo 39,17-21.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 679,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/eclo-39,17-21.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Hab 3,2-4.13a.15-19.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1509,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/hab-3,2-4.13a.15-19.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Is 9,1-6.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1405,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/is-9,1-6.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Is 12,1-6.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 804,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/is-12,1-6.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Is 26,1-4.7-9.12.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1117,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/is-26,1-4.7-9.12.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Is 33,2-10.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1421,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/is-33,2-10.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Is 38,10-14.17-20.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1632,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/is-38,10-14.17-20.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Is 40,10-17.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1493,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/is-40,10-17.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Is 42,10-16.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1488,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/is-42,10-16.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Is 45,15-25.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 2205,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/is-45,15-25.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Is 61,6-9.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 866,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/is-61,6-9.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Is 62,4-7.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 913,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/is-62,4-7.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Is 66,10-14a.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 906,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/is-66,10-14a.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Jr 14,17-21.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1118,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/jr-14,17-21.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Jr 17,7-8.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 478,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/jr-17,7-8.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Jr 31,10-14.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1005,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/jr-31,10-14.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Lc 1,46-55.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 793,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/lc-1,46-55.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Lc 1,68-79.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1180,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/lc-1,68-79.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Lc 2,29-32.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 347,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/lc-2,29-32.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 1.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1010,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-1.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 2.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1449,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-2.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 3.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 970,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-3.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 4.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1139,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-4.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 5,2-10.12-13.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1514,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-5,2-10.12-13.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 6.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 952,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-6.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 7.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1991,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-7.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 8.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1198,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-8.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 9 A(9).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 2121,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-9-a(9).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 9 B(10).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 2160,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-9-b(10).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 10(11).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 919,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-10(11).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 11(12).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1034,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-11(12).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 12(13).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 767,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-12(13).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 13(14).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1127,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-13(14).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 14(15).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 765,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-14(15).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 15(16).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1335,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-15(16).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 16(17).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 2028,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-16(17).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 17(18),2-30.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 3223,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-17(18),2-30.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 17(18),31-51.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 2394,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-17(18),31-51.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 18 A(19).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 894,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-18-a(19).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 18 B(19 B).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1147,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-18-b(19-b).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 19(20).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1286,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-19(20).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 20(21),2-8.14.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1005,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-20(21),2-8.14.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 21(22).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 3898,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-21(22).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 22(23).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 882,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-22(23).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 23(24).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1316,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-23(24).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 24(25).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 2318,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-24(25).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 25(26).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1239,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-25(26).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 26(27).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 2143,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-26(27).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 27(28),1-3.6-9.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1092,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-27(28),1-3.6-9.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 28(29).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1143,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-28(29).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 29(30).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1479,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-29(30).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 30(31),2-6.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 728,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-30(31),2-6.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 30(31),2-17.20-25.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 3104,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-30(31),2-17.20-25.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 31(32).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1737,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-31(32).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 32(33).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 2206,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-32(33).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 33(34).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 2186,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-33(34).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 34(35),1-2.3c.9-19.22-23.27.28.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 2170,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-34(35),1-2.3c.9-19.22-23.27.28.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 35(36).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1443,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-35(36).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 36(37).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 4445,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-36(37).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 37(38).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 2210,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-37(38).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 38(39).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1911,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-38(39).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 39(40),2-14.17-18.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 2375,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-39(40),2-14.17-18.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 40(41).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1464,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-40(41).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 41(42).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1660,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-41(42).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 42(43).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 830,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-42(43).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 43(44).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 2811,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-43(44).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 44(45).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 2034,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-44(45).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 45(46).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1239,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-45(46).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 46(47).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1064,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-46(47).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 47(48).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1604,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-47(48).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 48(49).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 2294,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-48(49).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 49(50).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 2601,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-49(50).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 50(51).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 2068,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-50(51).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 51(52).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1128,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-51(52).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 52(53).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1187,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-52(53).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 53(54),3-6.8-9.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 776,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-53(54),3-6.8-9.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 54(55),2-15.17-24.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 2690,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-54(55),2-15.17-24.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 55(56),2-7b.9-14.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1472,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-55(56),2-7b.9-14.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 56(57).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1378,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-56(57).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 58(59),2-5.10-11.17-18.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1130,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-58(59),2-5.10-11.17-18.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 59(60).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1209,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-59(60).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 60(61).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 959,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-60(61).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 61(62).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1556,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-61(62).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 62(63),2-9.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 952,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-62(63),2-9.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 63(64).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1183,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-63(64).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 64(65).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1668,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-64(65).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 65(66).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 2267,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-65(66).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 66(67).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 864,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-66(67).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 67(68).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 4741,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-67(68).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 68(69),2-22.30-37.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 3893,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-68(69),2-22.30-37.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 69(70).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 865,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-69(70).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 70(71).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 2979,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-70(71).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 71(72).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 2291,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-71(72).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 72(73).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 2868,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-72(73).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 73(74).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 2735,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-73(74).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 74(75).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1229,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-74(75).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 75(76).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1402,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-75(76).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 76(77).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 2190,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-76(77).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 77(78).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 7585,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-77(78).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 78(79),1-5.8-11.13.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1603,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-78(79),1-5.8-11.13.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 79(80).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 2165,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-79(80).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 80(81).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1691,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-80(81).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 81(82).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 903,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-81(82).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 83(84).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1704,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-83(84).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 84(85).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1374,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-84(85).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 85(86).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1848,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-85(86).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 86(87).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 793,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-86(87).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 87(88).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1926,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-87(88).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 88(89),2-38.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 4506,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-88(89),2-38.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 88(89),39-53.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1865,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-88(89),39-53.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 89(90).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1911,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-89(90).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 90(91).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1767,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-90(91).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 91(92).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1570,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-91(92).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 92(93).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 800,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-92(93).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 93(94).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 2120,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-93(94).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 94(95).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1350,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-94(95).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 95(96).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1517,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-95(96).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 96(97).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1416,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-96(97).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 97(98).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1095,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-97(98).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 98(99).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1232,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-98(99).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 99(100).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 630,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-99(100).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 100(101).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1315,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-100(101).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 101(102).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 2878,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-101(102).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 102(103).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 2360,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-102(103).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 103(104).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 3766,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-103(104).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 104(105).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 4341,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-104(105).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 105(106).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 5084,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-105(106).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 106(107).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 4040,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-106(107).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 107(108).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1385,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-107(108).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 109(110),1-5.7.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 931,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-109(110),1-5.7.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 110(111).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1121,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-110(111).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 111(112).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1190,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-111(112).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 112(113).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 864,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-112(113).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 113 A(114).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 882,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-113-a(114).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 113 B(115).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1712,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-113-b(115).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 114(116 A).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 892,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-114(116-a).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 115(116 B).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1086,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-115(116-b).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 116(117).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 313,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-116(117).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 117(118).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 2992,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-117(118).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),1-8.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 885,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-118(119),1-8.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),9-16.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 878,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-118(119),9-16.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),17-24.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 897,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-118(119),17-24.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),25-32.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 909,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-118(119),25-32.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),33-40.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 896,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-118(119),33-40.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),41-48.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 947,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-118(119),41-48.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),49-56.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 914,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-118(119),49-56.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),57-64.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 956,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-118(119),57-64.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),65-72.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 889,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-118(119),65-72.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),73-80.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 948,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-118(119),73-80.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),81-88.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 936,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-118(119),81-88.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),89-96.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 944,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-118(119),89-96.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),97-104.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 978,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-118(119),97-104.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),105-112.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 965,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-118(119),105-112.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),113-120.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 938,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-118(119),113-120.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),121-128.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 951,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-118(119),121-128.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),129-136.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 919,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-118(119),129-136.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),137-144.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 973,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-118(119),137-144.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),145-152.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 949,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-118(119),145-152.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),153-160.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 902,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-118(119),153-160.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),161-168.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 918,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-118(119),161-168.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 118(119),169-176.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 983,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-118(119),169-176.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 119(120).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 753,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-119(120).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 120(121).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 861,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-120(121).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 121(122).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 925,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-121(122).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 122(123).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 618,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-122(123).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 123(124).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 936,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-123(124).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 124(125).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 748,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-124(125).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 125(126).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 746,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-125(126).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 126(127).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 824,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-126(127).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 127(128).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 753,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-127(128).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 128(129).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 872,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-128(129).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 129(130).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 787,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-129(130).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 130(131).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 557,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-130(131).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 131(132).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1971,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-131(132).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 132(133).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 568,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-132(133).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 133(134).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 503,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-133(134).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 134(135).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1914,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-134(135).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 135(136).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 2176,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-135(136).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 136(137),1-6.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 837,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-136(137),1-6.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 137(138).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1238,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-137(138).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 138(139),1-18.23-24.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 2322,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-138(139),1-18.23-24.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 139(140),2-9.13-14.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1169,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-139(140),2-9.13-14.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 140(141),1-9.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1192,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-140(141),1-9.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 141(142).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1001,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-141(142).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 142(143),1-11.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1626,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-142(143),1-11.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 143(144),1-10.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1119,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-143(144),1-10.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 144(145).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 2227,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-144(145).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 145(146).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1200,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-145(146).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 146(147 A).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1269,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-146(147-a).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 147(147 B).md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 934,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-147(147-b).html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 148.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1619,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-148.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 149.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 935,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-149.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Salmo 150.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 666,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/salmo-150.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Sb 3,7-9.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 491,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/sb-3,7-9.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Sb 9,1-6.9-11.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1375,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/sb-9,1-6.9-11.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Sb 10,17-21.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 881,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/sb-10,17-21.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Saltério/Sb 16,20-21.26; 17,1a.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 861,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/saltério/sb-16,20-21.26;-17,1a.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Anotações sobre o Advento - Diretório de Liturgia CNBB.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 453,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/anotações-sobre-o-advento-diretório-de-liturgia-cnbb.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Distribuição das Cinzas.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 447,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/distribuição-das-cinzas.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Ladainha de todos os Santos.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 2442,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/ladainha-de-todos-os-santos.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Missa da Aurora - Natal.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1411,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/missa-da-aurora-natal.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Missa da Noite - Natal.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 2619,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/missa-da-noite-natal.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Missa da Vigília - Natal.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1355,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/missa-da-vigília-natal.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Missa do Dia - Natal.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1728,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/missa-do-dia-natal.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Observância das normas litúrgicas e ars celebrandi.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 15555,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/observância-das-normas-litúrgicas-e-ars-celebrandi.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Procissão de Ramos.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 5635,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/procissão-de-ramos.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Proclamação da Páscoa.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 7009,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/proclamação-da-páscoa.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Sugestões do Ordinário da Missa.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 3146,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/sugestões-do-ordinário-da-missa.html",
+      "dependencies": []
+    },
+    "2. Areas/Repertório Litúrgico/32.08 Recursos/Transladação do Santíssimo Sacramento.md": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1317,
+      "exportedPath": "2.-areas/repertório-litúrgico/32.08-recursos/transladação-do-santíssimo-sacramento.html",
+      "dependencies": []
+    },
+    "lib/media/capa-missa-vespertina-da-ceia-do-senhor.png": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1619565,
+      "exportedPath": "lib/media/capa-missa-vespertina-da-ceia-do-senhor.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 133738,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 41736,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 131134,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/other-plugins.css": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 24466,
+      "exportedPath": "lib/styles/other-plugins.css",
+      "dependencies": []
+    },
+    "lib/styles/theme.css": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 204570,
+      "exportedPath": "lib/styles/theme.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 563,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/supported-plugins.css": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 112,
+      "exportedPath": "lib/styles/supported-plugins.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1729191080936,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     }
   }
